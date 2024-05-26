@@ -12,7 +12,7 @@ Certifique-se de ter o SDK do .NET 8.0 ou superior instalado em sua máquina.
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/minimal-api-dados-fakes.git
+   git clone https://github.com/batiistta/FakeDataGeneratorMinimalApi.git
 
 2. Navegue até o diretório do projeto
 
