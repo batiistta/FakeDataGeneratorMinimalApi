@@ -1,0 +1,6 @@
+@FakeDataGeneratorMinimalApi_HostAddress = http://localhost:5048
+
+GET {{FakeDataGeneratorMinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
